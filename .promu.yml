@@ -7,7 +7,7 @@ build:
           path: ./cmd/operator
 tarball:
     files:
-        - LICENSE
+        - LICNSE
         - NOTICE
 crossbuild:
     platforms:
